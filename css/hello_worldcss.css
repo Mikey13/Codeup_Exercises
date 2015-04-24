@@ -1,0 +1,42 @@
+.header{
+	color: #CBFF72;
+	text-decoration: underline;
+}
+
+.subhead{
+	color: #CBFF72;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+body { background-color: #808080;
+}
+
+ul { 
+	list-style: square; 
+}
+
+body {font-family: 'Amatic SC', cursive;
+}
+
+p, ol, ul, dl, blockquote {
+	color: #FFFFFF;
+}
+
+table {font-size: 12px;
+	color: #FFFFF0;
+}
+a:link {
+	color:##FE9A2E;
+	}
+a:visited {
+	color:#FE9A2E;
+}
+a:hover {
+	color:#610B0B;
+}
+a:active {
+	color: #2EFEF7;
+	}
+
+body { background-image: url(http://i2.wp.com/www.retroist.com/wp-content/uploads/2009/10/magic-pumpkin-wallpaper.gif); }

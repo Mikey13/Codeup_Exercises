@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello Jurassic World 2</title>
+</head>
+<body>
+	<h1>Hello Codeup!</h1>
+		<p> </p>
+
+		<ul>
+		<li>Michael Girdley</li>
+		<li>Chris Turner</li>
+		<li>Jason Straughan</li>
+		</ul>
+
+		<ol>
+		<li>Arches</li>
+		<li>Badlands</li>
+		<li>Carlsbad</li>
+		</ol>
+
+		<a href="http://maps.google.com">Go to Google Maps </a>
+</body>
+</html>

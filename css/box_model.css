@@ -1,0 +1,58 @@
+
+/** Colored Boxes Format**/
+.boxa, .boxb, .boxc, .boxe, .boxd, .boxf {
+	border: 1px solid black;
+	width: 150px;
+	height: 50px;
+	padding:10px;
+	margin:10px;
+	color: white;
+}
+
+header{
+	text-align: center;
+}
+
+/**Box Hover**/
+
+.boxa:hover, .boxb:hover, .boxc:hover, .boxe:hover, .boxd:hover, .boxf:hover {
+	width: inherit;
+	margin-left: 0px;
+	text-align: center;	
+}
+
+/**box colors**/
+.boxa {
+background-color: red;
+margin-left:360px;
+position: relative;
+}
+
+.boxb {
+background-color: orange;
+margin-left:390px;
+}
+.boxc {
+background-color: yellow;
+margin-left:420px;
+}
+.boxd {
+background-color: green;
+margin-left:450px;
+
+}
+.boxe {
+background-color: blue;
+margin-left:480px;
+}
+.boxf {
+background-color: violet;
+margin-left:510px;
+
+}
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}

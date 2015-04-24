@@ -1,0 +1,62 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1200px;
+}
+
+.column {
+    float: left;
+    padding: 10px;
+}
+.column.one-third {
+    width: 33.33%;
+}
+.column.one-half {
+    width: 50%;
+}
+
+.row {
+    width:100%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column {
+    float: left;
+    padding: 10px;
+}
+.column.one-third {
+    width: 33.33%;
+}
+.column.one-half {
+    width: 50%;
+}
+
+.column {
+    float: left;
+    padding: 10px;
+}
+.column.two-third {
+    width: 22%;
+}
+.column.one-eight {
+    width: 18%;
+}
+.column {
+    float: left;
+    padding: 10px;
+}
+.column.three-eight{
+    width: 37.5%;
+}
+
+
+div {
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}

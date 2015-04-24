@@ -1,0 +1,41 @@
+#flag {
+      width: 398px;
+      border: 2px solid #ddd;
+      margin: 0 auto;
+      position: relative;
+      background-color: blue; }
+
+   .blue {
+      width: auto;
+      background-color: #00348c;
+      color: #fff;
+      text-align: center;
+      padding: 2px 0 5px 0; 
+      position: absolute;
+      top: 0;
+      left: 0; }
+    p.stripe {
+       height: 30px;
+       width: 30px
+      font-weight: bold;
+       text-align: center;
+      padding: 0 5px;
+      margin: 0; }
+   .red {
+      color: #f70029;
+      background-color: #f70029; }
+   .red::-moz-selection {
+      color: #fff;
+      background-color: #f70029; }
+   .red::selection {
+      color: #fff;
+      background-color: #f70029; }
+   .white {
+      color: #fff;
+      background-color: #fff; }
+   .white::-moz-selection {
+      color: #000;
+      background-color: #fff; }
+   .white::selection {
+      color: #000;
+      background-color: #fff; }

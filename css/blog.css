@@ -1,0 +1,35 @@
+	body{font-family: 'Dosis', sans-serif;
+	font-size: 500%;
+	color: #49fb35;
+	text-align: center;
+}
+
+	body {background-image: url(https://d13yacurqjgara.cloudfront.net/users/23569/screenshots/1830987/8bit_rocket_logo.png);
+		background-repeat: repeat;
+		margin: 0 auto;
+		}
+
+ul {
+    list-style-type: none;
+    margin: -80px;
+    padding:0;
+}
+
+li {
+    display: inline;
+    font-size: 13px;
+
+}
+*: link{ 
+	color:#ff0000;}
+
+
+p{font-size: 15px;
+	margin: 90px;
+	padding:25px;
+text-shadow: 2px 2px black;}
+
+body{
+		margin:70px;
+}
+
